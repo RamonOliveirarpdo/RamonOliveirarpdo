@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá! Eu sou o Ramon Oliveira 🖐️
+## Olá! Eu sou o Ramon Oliveira 🖐️
 
-<!--
-**RamonOliveirarpdo/RamonOliveirarpdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://www.linkedin.com/in/ramon-oliveira-rpdo/)
+@@ -9,7 +9,7 @@
 
-Here are some ideas to get you started:
+## Tecnologias que eu uso no meu dia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br/>
+<div style="display: inline_block">
+  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+@@ -20,7 +20,7 @@
+
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
+## Últimos videos:
+### Últimos videos:
