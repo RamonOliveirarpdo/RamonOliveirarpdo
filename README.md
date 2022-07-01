@@ -1,5 +1,4 @@
 ### Olá! Eu sou o Ramon Oliveira 🖐️
-## Olá! Eu sou o Ramon Oliveira 🖐️
 
 [![Linkedin](https://www.linkedin.com/in/ramon-oliveira-rpdo/)
 @@ -9,7 +9,7 @@
